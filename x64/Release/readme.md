@@ -1,0 +1,1 @@
+点击BypassUAC.exe,执行BAT，调用WMI把整个C盘添加到Windows Defender的病毒扫描白名单中
