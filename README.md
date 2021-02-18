@@ -1,5 +1,9 @@
 # BypassUAC
 
+通过现成的UAC绕过代码(https://github.com/cnsimo/BypassUAC)配合WMI即可让恶意软件轻松地给Windows defender增加白名单 
+
+具体查看原推：https://twitter.com/drivertomtt/status/1362081402322178048
+
 利用`Autoelevated`属性的`COM`接口配合`PEB`伪装实现`BypassUAC`，分成了`C`和`C#`版本！
 
 代码摘自：
